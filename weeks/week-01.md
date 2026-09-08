@@ -10,7 +10,7 @@ permalink: /weeks/week-01/
 > 請保留具體的現場、材料、語句或身體感受。
 > 
 ## TRACE｜痕跡
-IMG_2749.JPG
+
 >
 ![共同繪製的教室導航地圖]({{ '/assets/images/IMG_2749.JPG' | relative_url }})
 
