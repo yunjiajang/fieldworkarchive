@@ -13,7 +13,7 @@ permalink: /weeks/week-01/
 
 >
 ![共同繪製的教室導航地圖]({{ '/assets/images/IMG_2749.JPG' | relative_url }})
-
+![共同繪製的教室導航地圖]({{ '/assets/images/IMG_2749.JPG' | relative_url }})
 
 ## FRICTION｜摩擦
 
