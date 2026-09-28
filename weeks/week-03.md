@@ -11,7 +11,7 @@ permalink: /weeks/week-03/
 ## TRACE｜痕跡
 
 ({{ '/assets/images/'IMG_3201.JPG| relative_url }})
-({{ '/assets/images/' | relative_url }})
+({{ '/assets/images/'IMG_3199.JPG | relative_url }})
 ## FRICTION｜摩擦
 
 描述一個沒有如預期發生的瞬間。
