@@ -10,7 +10,7 @@ permalink: /weeks/week-03/
 > 請保留具體的現場、材料、語句或身體感受。
 ## TRACE｜痕跡
 
-({{ '/assets/images/' | relative_url }})
+({{ '/assets/images/'IMG_3201.JPG| relative_url }})
 ({{ '/assets/images/' | relative_url }})
 ## FRICTION｜摩擦
 
