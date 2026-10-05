@@ -13,8 +13,8 @@ permalink: /weeks/week-04/
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
 ![共同繪製的教室導航地圖]({{ '/assets/images/IMG_3425.JPG' | relative_url }}) 
-![共同繪製的教室導航地圖]({{ '/assets/images/IMG_342ˊ.JPG' | relative_url }})
-![共同繪製的教室導航地圖]({{ '/assets/images/IMG_342ˊ.JPG' | relative_url }})
+![共同繪製的教室導航地圖]({{ '/assets/images/IMG_3426ˊ.JPG' | relative_url }})
+![共同繪製的教室導航地圖]({{ '/assets/images/IMG_3430ˊ.JPG' | relative_url }})
 
 ## FRICTION｜摩擦
 
@@ -35,6 +35,8 @@ permalink: /weeks/week-04/
 ## NEXT MOVE｜下一步
 
 如果把這個發現轉化成工具、介面、規則、身體技術或作品，你下一步會測試什麼？
+![共同繪製的教室導航地圖]({{ '/assets/images/Page0001.png' | relative_url }})
+![共同繪製的教室導航地圖]({{ '/assets/images/IMG_8624ˊ.JPG' | relative_url }})
 
 
 
