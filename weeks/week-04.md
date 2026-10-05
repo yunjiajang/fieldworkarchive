@@ -12,8 +12,9 @@ permalink: /weeks/week-04/
 ## TRACE｜痕跡
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
-({{ '/assets/images/' | relative_url }}) ![共同繪製的教室導航地圖]({{ '/assets/images/' | relative_url }})
-
+![共同繪製的教室導航地圖]({{ '/assets/images/IMG_3425.JPG' | relative_url }}) 
+![共同繪製的教室導航地圖]({{ '/assets/images/IMG_342ˊ.JPG' | relative_url }})
+![共同繪製的教室導航地圖]({{ '/assets/images/IMG_342ˊ.JPG' | relative_url }})
 
 ## FRICTION｜摩擦
 
