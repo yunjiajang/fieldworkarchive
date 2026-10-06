@@ -6,9 +6,14 @@ permalink: /weeks/week-03/
 <span class="label">WEEK 03</span>
 
 # 路徑、天氣與觸覺
+# 證據如何成立？
 
 > 請保留具體的現場、材料、語句或身體感受。
+
 ## TRACE｜痕跡
+
+放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
+> 請保留具體的現場、材料、語句或身體感受。
 
 ![共同繪製的教室導航地圖]({{ '/assets/images/IMG_3201.JPG' | relative_url }}) 
 ![共同繪製的教室導航地圖]({{ '/assets/images/IMG_3199.JPG' | relative_url }}) 
