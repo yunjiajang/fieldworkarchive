@@ -6,7 +6,6 @@ permalink: /weeks/week-03/
 <span class="label">WEEK 03</span>
 
 # 路徑、天氣與觸覺
-# 證據如何成立？
 
 > 請保留具體的現場、材料、語句或身體感受。
 
