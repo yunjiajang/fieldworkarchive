@@ -14,9 +14,10 @@ permalink: /weeks/week-08/
 > ![共同繪製的教室導航地圖]({{ '/assets/images/IMG_4706.JPG' | relative_url }})
 > ![共同繪製的教室導航地圖]({{ '/assets/images/IMG_4612.JPG' | relative_url }}) 
 > ![共同繪製的教室導航地圖]({{ '/assets/images/IMG_4598.JPG' | relative_url }}) 
+
+
 天氣觀察日記
-> 《天氣的雕塑：紙與風雨的野外札記》
-【配方與重量基準】
+配方
 楮皮漿 30 g ＋ 水 1505 g
 11/6 總重 1784 g，去水後剩 656 g（第一次抄紙）
 > 11 月 4 日｜夜，涼風與試樣
