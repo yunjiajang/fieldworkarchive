@@ -8,12 +8,12 @@ permalink: /weeks/week-08/
 # 準備日
 
 > 請紀錄這週的嘗試。
-> ![共同繪製的教室導航地圖]({{ '/assets/images/IMG_4774.JPG' | relative_url }})
-> ![共同繪製的教室導航地圖]({{ '/assets/images/IMG_4705.JPG' | relative_url }})
-> ![共同繪製的教室導航地圖]({{ '/assets/images/IMG_4832.JPG' | relative_url }})
-> ![共同繪製的教室導航地圖]({{ '/assets/images/IMG_4706.JPG' | relative_url }})
-> ![共同繪製的教室導航地圖]({{ '/assets/images/IMG_4612.JPG' | relative_url }}) 
-> ![共同繪製的教室導航地圖]({{ '/assets/images/IMG_4598.JPG' | relative_url }}) 
+![共同繪製的教室導航地圖]({{ '/assets/images/IMG_4774.JPG' | relative_url }})
+![共同繪製的教室導航地圖]({{ '/assets/images/IMG_4705.JPG' | relative_url }})
+![共同繪製的教室導航地圖]({{ '/assets/images/IMG_4832.JPG' | relative_url }})
+![共同繪製的教室導航地圖]({{ '/assets/images/IMG_4706.JPG' | relative_url }})
+![共同繪製的教室導航地圖]({{ '/assets/images/IMG_4612.JPG' | relative_url }}) 
+![共同繪製的教室導航地圖]({{ '/assets/images/IMG_4598.JPG' | relative_url }}) 
 
 
 
@@ -34,7 +34,7 @@ permalink: /weeks/week-08/
 
 
 
-天氣觀察日記
+>天氣觀察日記
 配方
 楮皮漿 30 g ＋ 水 1505 g
 11/6 總重 1784 g，去水後剩 656 g（第一次抄紙）
